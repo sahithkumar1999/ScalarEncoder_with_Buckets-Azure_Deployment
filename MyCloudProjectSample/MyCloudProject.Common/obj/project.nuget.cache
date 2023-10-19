@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gm7qjoDeXyfs9jdSa5p5GaogxsSlmAUsKwzeZkkQtKhg7GyYRgB26lAlJmOuA3OPh+O8/bFYt/2I4zgCh/da2Q==",
+  "success": true,
+  "projectFilePath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\3.1.5\\microsoft.extensions.configuration.commandline.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\3.1.5\\microsoft.extensions.configuration.environmentvariables.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.5\\microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.5\\microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.5\\microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.5\\microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.5\\microsoft.extensions.logging.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.5\\microsoft.extensions.logging.console.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.logging.debug\\3.1.5\\microsoft.extensions.logging.debug.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.5\\microsoft.extensions.options.configurationextensions.3.1.5.nupkg.sha512",
+    "C:\\Users\\SAHITH\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

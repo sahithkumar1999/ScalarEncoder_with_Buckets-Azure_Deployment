@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject\\MyCloudProject.csproj": {}
+  },
+  "projects": {
+    "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj",
+        "projectName": "MyCloudProject.Common",
+        "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj",
+        "packagesPath": "C:\\Users\\SAHITH\\.nuget\\packages\\",
+        "outputPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAHITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject\\MyCloudProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject\\MyCloudProject.csproj",
+        "projectName": "MyCloudProject",
+        "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject\\MyCloudProject.csproj",
+        "packagesPath": "C:\\Users\\SAHITH\\.nuget\\packages\\",
+        "outputPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAHITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj": {
+                "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj"
+              },
+              "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\MyExperiment.csproj": {
+                "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\MyExperiment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\MyExperiment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\MyExperiment.csproj",
+        "projectName": "MyExperiment",
+        "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\MyExperiment.csproj",
+        "packagesPath": "C:\\Users\\SAHITH\\.nuget\\packages\\",
+        "outputPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyExperiment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SAHITH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj": {
+                "projectPath": "D:\\sem 2\\Cloud Computing\\Cloud Project\\se-cloud-2022-2023\\Source\\MyCloudProjectSample\\MyCloudProject.Common\\MyCloudProject.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.8.3, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.9, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            },
+            "ImageBinarizer": {
+              "target": "Package",
+              "version": "[1.5.6, )"
+            },
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2023.7.4, )"
+            },
+            "LearningApi": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.3, )"
+            },
+            "NeoCortexApi": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
